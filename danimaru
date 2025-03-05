@@ -1,5 +1,6 @@
 {
   "username": ["danimaru404"],
   "password": "HUTAOAI404",
-  "owners": ["6289525459709"]
+  "owners": ["6289525459709"],
+  "whitelistedIPs": ["188.166.243.123"]
 }
