@@ -1,6 +1,6 @@
 {
   "username": ["danimaru"],
-  "password": "HUTAOAI404", 
+  "password": ["HUTAOAI404", "user123"],
   "owners": ["6289525459709", "6281266950382", "6281264279690", "6282177244614"],
   "allowedIPs": [
     "188.166.243.123",
