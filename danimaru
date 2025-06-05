@@ -41,6 +41,19 @@
       "version": "Unknown",
       "registeredAt": 1749099051286,
       "registeredBy": "manual"
+    },
+    "6289525459709_2f78f820e5504b76add71d76fd2aa051": {
+      "name": "hutao2",
+      "owner": "Manual Registration",
+      "ip": "Unknown",
+      "hostname": "Unknown",
+      "platform": "Unknown",
+      "status": "registered",
+      "lastSeen": 1749099290506,
+      "uptime": 0,
+      "version": "Unknown",
+      "registeredAt": 1749099290506,
+      "registeredBy": "manual"
     }
   }
 }
