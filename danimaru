@@ -3,10 +3,6 @@
     "danimaru"
   ],
   "password": "ADMIN123",
-  "owners": [
-    "6289525459709",
-    "6282177244614"
-  ],
   "allowedIPs": [
     "89.144.35.210",
     "68.183.178.50",
@@ -14,46 +10,5 @@
     "159.65.129.202",
     "147.182.230.147",
     "139.59.120.111"
-  ],
-  "botRegistry": {
-    "6289525459709_4411f7edfbff45c799011a1bef695d66 hutao": {
-      "name": "1",
-      "owner": "Manual Registration",
-      "ip": "Unknown",
-      "hostname": "Unknown",
-      "platform": "Unknown",
-      "status": "registered",
-      "lastSeen": 1749098951826,
-      "uptime": 0,
-      "version": "Unknown",
-      "registeredAt": 1749098951826,
-      "registeredBy": "manual"
-    },
-    "6289525459709_4411f7edfbff45c799011a1bef695d66": {
-      "name": "hutao",
-      "owner": "Manual Registration",
-      "ip": "Unknown",
-      "hostname": "Unknown",
-      "platform": "Unknown",
-      "status": "registered",
-      "lastSeen": 1749099051286,
-      "uptime": 0,
-      "version": "Unknown",
-      "registeredAt": 1749099051286,
-      "registeredBy": "manual"
-    },
-    "6289525459709_2f78f820e5504b76add71d76fd2aa051": {
-      "name": "hutao2",
-      "owner": "Manual Registration",
-      "ip": "Unknown",
-      "hostname": "Unknown",
-      "platform": "Unknown",
-      "status": "registered",
-      "lastSeen": 1749099290506,
-      "uptime": 0,
-      "version": "Unknown",
-      "registeredAt": 1749099290506,
-      "registeredBy": "manual"
-    }
-  }
+  ]
 }
